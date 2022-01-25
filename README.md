@@ -1,3 +1,3 @@
 # Animated Navbar
 
-Creating an animated navbar to the left of a website, using plain HTML and CSS. 
+Adding an animated navbar on the left edge of a website using vanilla CSS. 
